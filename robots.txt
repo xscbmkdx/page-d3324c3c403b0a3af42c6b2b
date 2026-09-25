@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cn.xn--9kqy4sc0n8snes2b.com/sitemap.xml
